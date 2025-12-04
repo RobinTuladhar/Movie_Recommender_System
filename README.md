@@ -17,6 +17,14 @@
 This project takes a dataset of movies, processes textual features, converts them into numerical vectors, and recommends the **most similar movies** based on **cosine similarity**.  
 A full **Streamlit web app** is included for interactive use.
 
+## 🔹 Project Overview
+
+This project takes a dataset of movies, processes textual features, converts them into numerical vectors, and recommends the **most similar movies** based on **cosine similarity**.  
+A full **Streamlit web app** is included for interactive use.
+
+🎥 **Watch the demo video:** [Click here to see how it works]([https://www.youtube.com/your_video_link](https://youtu.be/XNjGYLhOfNY))
+
+
 ---
 
 ## 🧠 How It Works
@@ -39,7 +47,6 @@ A full **Streamlit web app** is included for interactive use.
 - `tmdb_5000_movies.csv`  
 - `tmdb_5000_credits.csv`  
 
-Source: [The Movies Dataset (Kaggle)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 ---
 

@@ -17,12 +17,9 @@
 This project takes a dataset of movies, processes textual features, converts them into numerical vectors, and recommends the **most similar movies** based on **cosine similarity**.  
 A full **Streamlit web app** is included for interactive use.
 
-## 🔹 Project Overview
+🎥 **Watch the demo video:**  
 
-This project takes a dataset of movies, processes textual features, converts them into numerical vectors, and recommends the **most similar movies** based on **cosine similarity**.  
-A full **Streamlit web app** is included for interactive use.
-
-🎥 **Watch the demo video:** [Click here to see how it works]([https://www.youtube.com/your_video_link](https://youtu.be/XNjGYLhOfNY))
+[![Watch the demo](https://img.youtube.com/vi/XNjGYLhOfNY/0.jpg)](https://youtu.be/XNjGYLhOfNY)
 
 
 ---

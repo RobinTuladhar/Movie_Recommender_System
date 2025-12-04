@@ -18,8 +18,8 @@ This project takes a dataset of movies, processes textual features, converts the
 A full **Streamlit web app** is included for interactive use.
 
 🎥 **Watch the demo video:**  
-
-[![Watch the demo](https://img.youtube.com/vi/XNjGYLhOfNY/0.jpg)](https://youtu.be/XNjGYLhOfNY)
+Click the thumbnail below
+[![Watch the demo](https://img.youtube.com/vi/XNjGYLhOfNY/0.jpg)](https://youtu.be/XNjGYLhOfNY) 
 
 
 ---

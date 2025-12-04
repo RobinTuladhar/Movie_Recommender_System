@@ -54,6 +54,6 @@ Movie Recommender System/
 ├── Demo.ipynb              # Notebook for preprocessing & model building
 ├── tmdb_5000_movies.csv    # Dataset
 ├── tmdb_5000_credits.csv   # Dataset
-├── app.py                  # Streamlit web app
+├── app.py                  # Streamlit web app (Do Create it in streamlit and use your own API Key)
 ├── .gitignore              # Ignore large model files
 └── README.md               # Project documentation
